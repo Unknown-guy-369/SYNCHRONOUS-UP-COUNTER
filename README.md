@@ -1,6 +1,6 @@
 ## Reg no.: 24900880
 ## Name : Abishek Priyan M
-## Experiment 7: SYNCHRONOUS-UP-COUNTER
+## Experiment 7: IMPLEMENTATION OF SYNCHRONOUS UP COUNTER
 
 **AIM:**
 
